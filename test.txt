@@ -1,0 +1,8 @@
+help
+set x "POOP"
+set y "MrBeast"
+print y
+print x
+set plague yaaaa
+print plague
+quit
