@@ -1,5 +1,0 @@
-help RAISE YOUR YHAYAYAYA
-YOURE INSANE YOURE IN PAIN I ASN TELL BY WHAT UR SAYING
-MY BAD
-set x abc; set y 123; print y; print x
-echo yaya
